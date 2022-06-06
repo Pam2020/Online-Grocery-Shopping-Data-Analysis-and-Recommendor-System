@@ -5,9 +5,9 @@
 	Mohan Brahma Harsha Vanga(HI77773)
 	Suhetu Ring(SS13214)
 
-## Data Source: https://www.kaggle.com/yasserh/instacart-online-grocery-basket-analysis-dataset
-## Data Size: 1.28 GB on MongoDB
-## Total Data Size: 3.6+ GB with merged spark dataframes
+### Data Source: https://www.kaggle.com/yasserh/instacart-online-grocery-basket-analysis-dataset
+### Data Size: 1.28 GB on MongoDB
+### Total Data Size: 3.6+ GB with merged spark dataframes
 
 **The following dependencies need to be set up in order for the project to run:**
 1. MongoDB on a local standalone cluster setup
